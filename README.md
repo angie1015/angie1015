@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[https://drive.google.com/file/d/1Xhz-INn3GyBINrHE2tZ6KaAXpk25GGMr/preview](https://drive.google.com/file/d/1Xhz-INn3GyBINrHE2tZ6KaAXpk25GGMr/preview)
+[intro video](https://raw.githubusercontent.com/angie1015/angie1015/master/intro.gif)
 
 
 <!--
