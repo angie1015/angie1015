@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[intro video](https://raw.githubusercontent.com/angie1015/angie1015/master/intro.gif)
+[intro video](https://github.com/angie1015/angie1015/blob/master/intro.gif)
 
 
 <!--
