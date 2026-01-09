@@ -1,8 +1,6 @@
 <!--### Hi there 👋
 -->
 
-![intro video](https://github.com/angie1015/angie1015/blob/master/intro.gif)
-
 
 <!--
 **angie1015/angie1015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
